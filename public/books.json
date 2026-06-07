@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "Angular Complete Guide",
+    "price": 799,
+    "publicationDate": "2024-01-15",
+    "description": "A comprehensive guide to mastering Angular framework from beginner to advanced level."
+  },
+  {
+    "id": 2,
+    "title": "Learning TypeScript",
+    "price": 599,
+    "publicationDate": "2023-09-20",
+    "description": "Understand TypeScript concepts and build scalable applications with confidence."
+  },
+  {
+    "id": 3,
+    "title": "RxJS Essentials",
+    "price": 699,
+    "publicationDate": "2022-11-10",
+    "description": "Learn Observables, Subjects and reactive programming techniques in Angular."
+  }
+]
